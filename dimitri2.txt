@@ -1,0 +1,10 @@
+Nome:
+Dimitri2
+Idade:
+20
+Série preferida:
+High School Musical
+Livro preferido:
+A culpa é das estrelas
+Filme preferido:
+Crepúsculo
