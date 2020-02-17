@@ -1,0 +1,10 @@
+Nome:
+Dimitri
+Idade:
+20
+Série preferida:
+Ragnarok
+Livro preferido:
+O Rei do Inverno, de Bernard Cornwell
+Filme preferido:
+Senhor dos Anéis (o primeiro filme)
